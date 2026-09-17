@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // رابط سيرفرك الأساسي على Katabump
-const TARGET_SERVER = 'http://51.75.118.151:20283';
+const TARGET_SERVER = 'http://147.135.213.131:20046';
 
 // قائمة السيرفرات الأربعة الخاصة بك لعرضها في لوحة التحكم أو الروابط الموحدة
 const serversList = [
